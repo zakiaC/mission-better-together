@@ -1,0 +1,7 @@
+export const settings = {
+  2   site: 'https://cannonball.littlesticks.dev',
+  3   name: 'Little Sticks',
+  4   title: 'Cannonball by Little Sticks | A splash page template',
+  5   description: 'This is a simple splash page template built with Astro by Little Sticks',
+  6 }
+
